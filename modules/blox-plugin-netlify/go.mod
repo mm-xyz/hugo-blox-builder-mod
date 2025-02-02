@@ -1,3 +1,1 @@
-module github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify
-
-go 1.15
+module github.com/mm-xyz/hugo-blox-builder-mod/modules/blox-plugin-netlify

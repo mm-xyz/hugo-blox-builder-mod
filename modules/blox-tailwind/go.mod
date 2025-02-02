@@ -1,5 +1,1 @@
-module github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind
-
-go 1.19
-
-require github.com/HugoBlox/hugo-blox-builder/modules/blox-analytics v0.1.3
+module github.com/mm-xyz/hugo-blox-builder-mod/modules/blox-tailwind
