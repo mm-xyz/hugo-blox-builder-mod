@@ -13,7 +13,7 @@
   {{/* Initialise Hugo Blox. */}}
   {{ $js_license := printf "/*! Hugo Blox Builder v%s | https://hugoblox.com/ */\n" site.Data.hugoblox.version }}
   {{ $js_license := $js_license | printf "%s/*! Copyright 2016-present George Cushen (https://georgecushen.com/) */\n" }}
-  {{ $js_license := $js_license | printf "%s/*! License: https://github.com/HugoBlox/hugo-blox-builder/blob/main/LICENSE.md */\n" }}
+  {{ $js_license := $js_license | printf "%s/*! License: https://github.com/mm-xyz/hugo-blox-builder-mod/blob/main/LICENSE.md */\n" }}
   {{ $js_bundle_head := $js_license | resources.FromString "js/bundle-head.js" }}
   {{ $wcDarkLightEnabled := (and site.Params.appearance.theme_day site.Params.appearance.theme_night) }}
   {{ $wcIsSiteThemeDark := not (.Scratch.Get "light") | default false }}

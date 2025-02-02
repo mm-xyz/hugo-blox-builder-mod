@@ -20,7 +20,7 @@ content:
     - icon: comments
       icon_pack: fas
       name: Discuss on the forum
-      link: 'https://github.com/HugoBlox/hugo-blox-builder/discussions'
+      link: 'https://github.com/mm-xyz/hugo-blox-builder-mod/discussions'
 
   # Automatically link email and phone or display as text?
   autolink: true

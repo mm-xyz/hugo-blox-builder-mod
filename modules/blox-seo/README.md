@@ -13,7 +13,7 @@ Otherwise, if you are not using the `blox-bootstrap` module, you can get SEO fea
    ```yaml
    module:
      imports:
-       - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-seo
+       - path: github.com/mm-xyz/hugo-blox-builder-mod/modules/blox-seo
    ```
 
 2. If you're not using the `blox-bootstrap` module, load the SEO module in your site's `<head>` with:

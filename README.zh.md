@@ -25,12 +25,12 @@
 - 👉 [**开始使用**](https://hugoblox.com/templates/)
 - 📚 [查看 **文档**](https://docs.hugoblox.com/)
 - 🙋‍♀️ **有问题吗？**
-  - **立即在 [Discord](https://discord.gg/z8wNYzb) 上与我们聊天**，或浏览 [故障排除指南](https://docs.hugoblox.com/reference/troubleshooting/) 和 [问答论坛](https://github.com/HugoBlox/hugo-blox-builder/discussions)
+  - **立即在 [Discord](https://discord.gg/z8wNYzb) 上与我们聊天**，或浏览 [故障排除指南](https://docs.hugoblox.com/reference/troubleshooting/) 和 [问答论坛](https://github.com/mm-xyz/hugo-blox-builder-mod/discussions)
   - _此外，查看 [Hugo 论坛](https://discourse.gohugo.io) 解决 Hugo 相关问题，以及 [Netlify 论坛](https://answers.netlify.com/) 解答 Netlify 相关问题_
 - 🐦 与社区共享您的 Hugo Blox Builder 网站：[@GetResearchDev](https://twitter.com/GetResearchDev) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithHugoBlox](https://twitter.com/search?q=%23MadeWithHugoBlox&src=typed_query)
 - 🗳 [参加调查，帮助我们改进 #开源](https://forms.gle/NioD9VhUg7PNmdCAA)
-- ⬆️ **更新？** 查看 [更新指南](https://docs.hugoblox.com/reference/update/) 和 [发布说明](https://github.com/HugoBlox/hugo-blox-builder/releases)
-- 🚀 [贡献改进](CONTRIBUTING.md) 或 [建议改进](https://github.com/HugoBlox/hugo-blox-builder/issues)
+- ⬆️ **更新？** 查看 [更新指南](https://docs.hugoblox.com/reference/update/) 和 [发布说明](https://github.com/mm-xyz/hugo-blox-builder-mod/releases)
+- 🚀 [贡献改进](CONTRIBUTING.md) 或 [建议改进](https://github.com/mm-xyz/hugo-blox-builder-mod/issues)
 
 ## 💙 我们向您恳请支持这个开源运动
 
@@ -108,4 +108,4 @@ Hugo Blox Builder内置了**自动白天（浅色）和黑夜（暗色）模式*
 
 版权所有 2016-present [George Cushen](https://georgecushen.com)。
 
-[Hugo Blox Builder](https://github.com/HugoBlox/hugo-blox-builder/)存储库根据[MIT](https://github.com/HugoBlox/hugo-blox-builder/blob/main/LICENSE.md)许可证发布。
+[Hugo Blox Builder](https://github.com/mm-xyz/hugo-blox-builder-mod/)存储库根据[MIT](https://github.com/mm-xyz/hugo-blox-builder-mod/blob/main/LICENSE.md)许可证发布。

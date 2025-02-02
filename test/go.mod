@@ -1,7 +1,7 @@
-module github.com/HugoBlox/hugo-blox-builder/test
+module github.com/mm-xyz/hugo-blox-builder-mod/test
 
 go 1.15
 
-require github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind main
+require github.com/mm-xyz/hugo-blox-builder-mod/modules/blox-tailwind main
 
-replace github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind => ../modules/blox-tailwind
+replace github.com/mm-xyz/hugo-blox-builder-mod/modules/blox-tailwind => ../modules/blox-tailwind

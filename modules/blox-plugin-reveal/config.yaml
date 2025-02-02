@@ -5,4 +5,4 @@ module:
     - source: layouts
       target: layouts
   imports:
-    - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-core
+    - path: github.com/mm-xyz/hugo-blox-builder-mod/modules/blox-core

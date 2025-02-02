@@ -5,7 +5,7 @@
 ############################
 
 imports:
-  - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-decap-cms
-  - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify
-  - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-reveal
-  - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-bootstrap/v5
+  - path: github.com/mm-xyz/hugo-blox-builder-mod/modules/blox-plugin-decap-cms
+  - path: github.com/mm-xyz/hugo-blox-builder-mod/modules/blox-plugin-netlify
+  - path: github.com/mm-xyz/hugo-blox-builder-mod/modules/blox-plugin-reveal
+  - path: github.com/mm-xyz/hugo-blox-builder-mod/modules/blox-bootstrap/v5

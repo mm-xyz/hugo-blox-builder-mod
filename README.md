@@ -25,12 +25,12 @@
 - 👉 [**Get Started**](https://hugoblox.com/templates/)
 - 📚 [View the **documentation**](https://docs.hugoblox.com/)
 - 🙋‍♀️ **Have a question?**
-  - **Chat with us now on [Discord](https://discord.gg/z8wNYzb)** or explore the [Troubleshooting Guide](https://docs.hugoblox.com/reference/troubleshooting/) and [Q&A Forum](https://github.com/HugoBlox/hugo-blox-builder/discussions)
+  - **Chat with us now on [Discord](https://discord.gg/z8wNYzb)** or explore the [Troubleshooting Guide](https://docs.hugoblox.com/reference/troubleshooting/) and [Q&A Forum](https://github.com/mm-xyz/hugo-blox-builder-mod/discussions)
   - _Also, check out [Hugo Forum](https://discourse.gohugo.io) for Hugo Qs and [Netlify Forum](https://answers.netlify.com/) for Netlify Qs_
 - 🐦 Share your Hugo Blox Builder site with the community on Twitter: [@GetResearchDev](https://twitter.com/GetResearchDev) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithHugoBlox](https://twitter.com/search?q=%23MadeWithHugoBlox&src=typed_query)
 - 🗳 [Take the survey and help us improve #OpenSource](https://forms.gle/NioD9VhUg7PNmdCAA)
-- ⬆️ **Updating?** View the [Update Guide](https://docs.hugoblox.com/reference/update/) and [Release Notes](https://github.com/HugoBlox/hugo-blox-builder/releases)
-- 🚀 [Contribute improvements](CONTRIBUTING.md) or [suggest improvements](https://github.com/HugoBlox/hugo-blox-builder/issues)
+- ⬆️ **Updating?** View the [Update Guide](https://docs.hugoblox.com/reference/update/) and [Release Notes](https://github.com/mm-xyz/hugo-blox-builder-mod/releases)
+- 🚀 [Contribute improvements](CONTRIBUTING.md) or [suggest improvements](https://github.com/mm-xyz/hugo-blox-builder-mod/issues)
 
 ## 💙 We ask you, humbly, to support this open source movement
 
@@ -110,4 +110,4 @@ Feel free to [_star_ the project on Github](https://github.com/HugoBlox/hugo-blo
 
 Copyright 2016-present [George Cushen](https://georgecushen.com).
 
-The [Hugo Blox Builder](https://github.com/HugoBlox/hugo-blox-builder/) repository is released under the [MIT](https://github.com/HugoBlox/hugo-blox-builder/blob/main/LICENSE.md) license.
+The [Hugo Blox Builder](https://github.com/mm-xyz/hugo-blox-builder-mod/) repository is released under the [MIT](https://github.com/mm-xyz/hugo-blox-builder-mod/blob/main/LICENSE.md) license.

@@ -18,8 +18,8 @@ The integrated [**Hugo Blox Builder**](https://hugoblox.com) and CMS makes it ea
 - ⬇️ **Automatically import citations from BibTeX** with the [Hugo Academic CLI](https://github.com/GetRD/academic-file-converter)
 - 🐦 Share your new site with the community: [@GetResearchDev](https://twitter.com/GetReseachDev) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=%23MadeWithWowchemy&src=typed_query)
 - 🗳 [Take the survey and help us improve #OpenSource](https://forms.gle/NioD9VhUg7PNmdCAA)
-- 🚀 [Contribute improvements](https://github.com/HugoBlox/hugo-blox-builder/blob/main/CONTRIBUTING.md) or [suggest improvements](https://github.com/HugoBlox/hugo-blox-builder/issues)
-- ⬆️ **Updating?** View the [Update Guide](https://docs.hugoblox.com/hugo-tutorials/update/) and [Release Notes](https://github.com/HugoBlox/hugo-blox-builder/releases)
+- 🚀 [Contribute improvements](https://github.com/mm-xyz/hugo-blox-builder-mod/blob/main/CONTRIBUTING.md) or [suggest improvements](https://github.com/mm-xyz/hugo-blox-builder-mod/issues)
+- ⬆️ **Updating?** View the [Update Guide](https://docs.hugoblox.com/hugo-tutorials/update/) and [Release Notes](https://github.com/mm-xyz/hugo-blox-builder-mod/releases)
 
 ## 💙 We ask you, humbly, to support this open source movement
 

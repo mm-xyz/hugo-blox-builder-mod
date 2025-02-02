@@ -11,7 +11,7 @@ Built upon the open source [Decap CMS](https://decapcms.org/) and [Netlify Ident
    ```yaml
    module:
      imports:
-       - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-decap-cms
+       - path: github.com/mm-xyz/hugo-blox-builder-mod/modules/blox-plugin-decap-cms
    ```
 
 2. Create a `content/admin/index.md` file containing:

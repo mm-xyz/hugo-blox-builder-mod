@@ -12,8 +12,8 @@ Join the **Contributing** channel on the **[community Discord](https://discord.g
 
 Whether or not you're a developer, there are plenty of non-technical ways that you can help. We always need help with:
 
-- Helping the Hugo Blox community via the live [chat](https://discord.gg/z8wNYzb) and [forum](https://github.com/HugoBlox/hugo-blox-builder/discussions)
-- Investigating and reviewing open [Issues](https://github.com/HugoBlox/hugo-blox-builder/issues) and [Pull Requests](https://github.com/HugoBlox/hugo-blox-builder/pulls)
+- Helping the Hugo Blox community via the live [chat](https://discord.gg/z8wNYzb) and [forum](https://github.com/mm-xyz/hugo-blox-builder-mod/discussions)
+- Investigating and reviewing open [Issues](https://github.com/mm-xyz/hugo-blox-builder-mod/issues) and [Pull Requests](https://github.com/mm-xyz/hugo-blox-builder-mod/pulls)
   - Influence the roadmap! Give a thumbs up 👍 to upvote a feature request you would like to use
 - Improving the [documentation](https://docs.hugoblox.com/) and writing tutorials
   - Just click the _Edit_ button at the bottom of pages or open an issue with your proposed improvement
@@ -38,13 +38,13 @@ Repository structure:
 
 #### What are some good issues to contribute to?
 
-If you're a developer looking to contribute, but you're not sure where to begin, check out the [help wanted](https://github.com/HugoBlox/hugo-blox-builder/labels/help%20wanted) label on Github, which contains issues which need some love.
+If you're a developer looking to contribute, but you're not sure where to begin, check out the [help wanted](https://github.com/mm-xyz/hugo-blox-builder-mod/labels/help%20wanted) label on Github, which contains issues which need some love.
 
 #### How can I propose an improvement?
 
-If you have a straightforward bug fix or improvement, feel free to contribute it in a [Pull Request](https://github.com/HugoBlox/hugo-blox-builder/pulls) for the community to review.
+If you have a straightforward bug fix or improvement, feel free to contribute it in a [Pull Request](https://github.com/mm-xyz/hugo-blox-builder-mod/pulls) for the community to review.
 
-If you have an idea for a new feature, please start by [searching the issues](https://github.com/HugoBlox/hugo-blox-builder/issues) to check that the feature has not already been suggested and then suggest it by [opening a new issue](https://github.com/HugoBlox/hugo-blox-builder/issues/new/choose), as adding new features to Hugo Blox first requires some analysis around the design and spec.
+If you have an idea for a new feature, please start by [searching the issues](https://github.com/mm-xyz/hugo-blox-builder-mod/issues) to check that the feature has not already been suggested and then suggest it by [opening a new issue](https://github.com/mm-xyz/hugo-blox-builder-mod/issues/new/choose), as adding new features to Hugo Blox first requires some analysis around the design and spec.
 
 Please be mindful of the project [scope](#scope).
 
@@ -92,7 +92,7 @@ yarn run format
 
 **Open a Pull Request with your changes**
 
-Use git to push (upload) your changes to GitHub and then open a Pull Request (PR) at https://github.com/HugoBlox/hugo-blox-builder/pulls
+Use git to push (upload) your changes to GitHub and then open a Pull Request (PR) at https://github.com/mm-xyz/hugo-blox-builder-mod/pulls
 
 Please be mindful of the project [scope](#scope).
 
@@ -114,7 +114,7 @@ To contribute a **new language pack** or an improvement to a language pack, refe
 
 ### Contribute a template
 
-Consider duplicating a bare-bones template, such as the [Link In Bio](https://github.com/HugoBlox/hugo-blox-builder/tree/main/starters/link-in-bio) folder, and building up your own template using the Hugo Blox. Reach out on the **Contributing** channel in Discord to submit your template.
+Consider duplicating a bare-bones template, such as the [Link In Bio](https://github.com/mm-xyz/hugo-blox-builder-mod/tree/main/starters/link-in-bio) folder, and building up your own template using the Hugo Blox. Reach out on the **Contributing** channel in Discord to submit your template.
 
 ### Contribute to the Publication importer
 

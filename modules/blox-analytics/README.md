@@ -13,7 +13,7 @@ Get analytics and verification for your Hugo site by following the guide below:
    ```yaml
    module:
      imports:
-       - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-analytics
+       - path: github.com/mm-xyz/hugo-blox-builder-mod/modules/blox-analytics
    ```
 
 2. Load the module in your site's `<head>` with:
