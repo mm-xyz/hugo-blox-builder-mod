@@ -1,7 +1,7 @@
 # Navigation
-
+# 中文化
 - id: toggle_navigation
-  translation: 切換導航
+  translation: 切換導覽
 
 - id: table_of_contents
   translation: 目錄
@@ -36,10 +36,10 @@
   translation: 下一頁
 
 - id: figure
-  translation: '圖%d:'
+  translation: '圖:'
 
 - id: edit_page
-  translation: 編輯本業
+  translation: 編輯
 
 # Themes
 
@@ -50,7 +50,7 @@
   translation: 明亮
 
 - id: theme_dark
-  translation: 暗黑
+  translation: 夜間
 
 - id: theme_auto
   translation: 自動
@@ -58,7 +58,7 @@
 # Buttons
 
 - id: btn_preprint
-  translation: 影印預覽
+  translation: 預覽列印
 
 - id: btn_pdf
   translation: PDF
@@ -76,7 +76,7 @@
   translation: 程式碼
 
 - id: btn_dataset
-  translation: 數據集
+  translation: 資料集
 
 - id: btn_project
   translation: 專案
@@ -91,7 +91,7 @@
   translation: 複製
 
 - id: btn_copied
-  translation: Copied
+  translation: 已複製
 
 - id: btn_download
   translation: 下載
@@ -137,13 +137,13 @@
   translation: 姓名
 
 - id: contact_email
-  translation: 郵箱
+  translation: 電子郵件
 
 - id: contact_message
   translation: 訊息
 
 - id: contact_attachment
-  translation: Attach file
+  translation: 附加檔案
 
 - id: contact_send
   translation: 發送
@@ -232,13 +232,13 @@
   translation: 搜尋...
 
 - id: search_results
-  translation: 搜尋结果
+  translation: 搜尋結果
 
 - id: search_no_results
-  translation: 找不到结果
+  translation: 找不到結果
 
 - id: search_common_queries
-  translation: 經常搜索
+  translation: 常用搜尋
 
 # Error 404
 
@@ -246,12 +246,12 @@
   translation: 找不到頁面
 
 - id: 404_recommendations
-  translation: 您可能在找？
+  translation: 您可能在找：
 
 # Cookie consent
 
 - id: cookie_message
-  translation: 本網站使用cookies來確保您可以在網站中獲得最佳體驗。
+  translation: 本網站使用 cookies 來確保您可以在網站中獲得最佳體驗。
 
 - id: cookie_dismiss
   translation: 知道了!
