@@ -7,13 +7,13 @@
   translation: 目錄
 
 - id: on_this_page
-  translation: 於本頁
+  translation: 本頁中提及 # 原本：於本頁
 
 - id: back_to_top
   translation: 回到頂端
 
 - id: home
-  translation: 主頁
+  translation: 首頁
 
 - id: close
   translation: 關閉
@@ -39,12 +39,12 @@
   translation: '圖:'
 
 - id: edit_page
-  translation: 編輯
+  translation: 編輯本頁
 
 # Themes
 
 - id: theme_selector
-  translation: 顯示選項
+  translation: 顯示模式
 
 - id: theme_light
   translation: 明亮
@@ -134,13 +134,13 @@
 # Contact widget
 
 - id: contact_name
-  translation: 姓名
+  translation: 怎麼稱呼？
 
 - id: contact_email
   translation: 電子郵件
 
 - id: contact_message
-  translation: 訊息
+  translation: 訊息訊息
 
 - id: contact_attachment
   translation: 附加檔案
