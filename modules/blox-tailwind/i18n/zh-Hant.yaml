@@ -27,7 +27,7 @@
   translation: 相關
 
 - id: minute_read
-  translation: 閱讀時間（分鐘）
+  translation: 分鐘 # 閱讀時間（分鐘）
 
 - id: previous
   translation: 上一頁
